@@ -13,7 +13,7 @@ DATABASES = {
         'NAME': 'Database-1',
         'USER': 'dbmasteruser',
         'PASSWORD': 'DmsjvPqp#m|=%3L=]HD-RGjK8}&fx61C',
-        'HOST': 'http://13.126.248.37/',
+        'HOST': 'localhost',
         'PORT': '',
     }
 }
